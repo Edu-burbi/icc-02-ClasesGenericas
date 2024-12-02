@@ -10,13 +10,12 @@ Este proyecto implementa un sistema de gestión de mascotas utilizando **clases 
 
 ## Cómo ejecutar el proyecto
 1. **Compilar los archivos**:
-   ```bash
-   javac -d bin src/**/*.java
-   ```
+
+Abrir terminal
+
 2. **Ejecutar el programa**:
-   ```bash
-   java -cp bin main.Main
-   ```
+
+Pulsar F5
 
 ## Estructura del proyecto
 ProyectoMascotas
